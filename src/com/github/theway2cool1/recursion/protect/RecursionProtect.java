@@ -212,9 +212,4 @@ public class RecursionProtect extends JavaPlugin{
 		}
 	}
 	//Loading end
-	
-	//Other
-	public void checkEvents(){
-		
-	}
 }
